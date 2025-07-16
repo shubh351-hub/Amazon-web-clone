@@ -216,9 +216,11 @@ a{
     flex-wrap: wrap;
     border: 2px solid gray;
     justify-content: space-evenly;
+    background: linear-gradient(rgba(216, 32, 216, 0.7), White, white);
 }
 
 .box{
+    background-color: whitesmoke;
     border: 2px solid gray;
     height: 420px;
     width: 316px;
